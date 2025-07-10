@@ -1,11 +1,11 @@
 # Phonebook Backend
 
-API pública en Render  
+Public API in Render
 https://render-phonebook-p6px.onrender.com/api/persons
 
-## Uso local
+## Local use
 
 ```bash
 npm install
-npm run dev   # o npm start
+npm run dev   # or npm start
 ```
