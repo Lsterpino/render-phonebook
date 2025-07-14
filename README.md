@@ -1,7 +1,7 @@
 # Phonebook Backend
 
-Public API in Render
-https://render-phonebook-p6px.onrender.com/api/persons
+Link to Phonebook App
+https://render-phonebook-p6px.onrender.com
 
 ## Local use
 
